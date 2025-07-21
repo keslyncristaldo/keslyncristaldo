@@ -1,47 +1,59 @@
-<h1 align="center">✨ Oi, eu sou a Keslyn Cristaldo! ✨</h1>
-<h3 align="center">Dev em formação, apaixonada por tecnologia, magia digital e boas histórias.</h3>
+# 💜 Olá, eu sou a Keslyn!
+<p align="left">
+  Desenvolvedora em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
+ Tenho focado meus estudos em <strong>Html</strong>, <strong>CSS</strong>, <strong>JS</strong> e C# com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+</p>
 
-##
+## Sobre mim
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react" height="45" />
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,git,github,vscode" height="45" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" />
-</div>
+- 🎓 Cursando Engenharia de Software na Biopark
+- 📚 Estudando JavaScript, Css, Html, e desenvolvimento fullstack (C#)
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+- ❤️ Tenho um [studygram](https://www.instagram.com/code.kes/) e sempre estou postando dicas sobre a área e incentivando dev's
 
-##
+---
+<br>
 
-<p align="center">
-  🌙 Estudante de Engenharia de Software<br>
-  🎯 Criadora de conteúdo e futura desenvolvedora full stack<br>
-  🎮 Amante de jogos, IA e magia digital<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+ Estou cursando <strong> Engenharia de Software</strong> pelo Biopark. <br><br>
+  Tenho me aprofundado em <strong>JavaScript</strong>, <strong>CSS</strong>. <strong>HTML</strong> para o front-end e <strong>C#</strong> para o back-end. Também venho explorando tecnologias como <strong>Java</strong>, <strong>PYTHON</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e  aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
+  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+</p>
+
+
+
+<p align="left">
 
 </p>
 
-##
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+</p>
+
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kes.keslyn@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/keslyn-bus-cristaldo/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/code.kes/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/keslyncristaldo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-  <a href="https://github.com/keslyncristaldo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.tiktok.com/@codekes" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="30"/>
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardavieira-dev.eduardavieira-dev&left_color=darkviolet&right_color=orchid" width="80" />
 </div>
 
-##
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=keslyncristaldo&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=8" height="150" />
-</div>
-
-##
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keslyncristaldo/keslyncristaldo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keslyncristaldo/keslyncristaldo/output/pacman-contribution-graph.svg">
-  <img alt="Grafico divertido de contribuição" src="https://raw.githubusercontent.com/keslyncristaldo/keslyncristaldo/output/pacman-contribution-graph.svg">
-</picture>

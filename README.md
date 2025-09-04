@@ -1,7 +1,7 @@
 # 💜 Olá, eu sou a Keslyn!
 <p align="left">
   Desenvolvedora em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em <strong>Html</strong>, <strong>CSS</strong>, <strong>JS</strong> e C# com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+ Tenho focado meus estudos em <strong>Html</strong>, <strong>CSS</strong>, <strong>JS</strong> e C com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p>
 
 ## Sobre mim
@@ -30,7 +30,7 @@
 
 <p align="left"> 
  Estou cursando <strong> Engenharia de Software</strong> pelo Biopark. <br><br>
-  Tenho me aprofundado em <strong>JavaScript</strong>, <strong>CSS</strong>. <strong>HTML</strong> para o front-end e <strong>C#</strong> para o back-end. Também venho explorando tecnologias como <strong>Java</strong>, <strong>PYTHON</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e  aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
+  Tenho me aprofundado em <strong>JavaScript</strong>, <strong>CSS</strong>. <strong>HTML</strong> para o front-end e <strong>C</strong> para o back-end. Também venho explorando tecnologias como <strong>Java</strong>, <strong>MySQL</strong> e  aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
 

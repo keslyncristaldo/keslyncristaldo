@@ -7,7 +7,7 @@
 ## Sobre mim
 
 - 🎓 Cursando Engenharia de Software na Biopark
-- 📚 Estudando JavaScript, Css, Html, e desenvolvimento fullstack (C#)
+- 📚 Estudando JavaScript, Css, Html, e desenvolvimento fullstack (C)
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 - ❤️ Tenho um [studygram](https://www.instagram.com/code.kes/) e sempre estou postando dicas sobre a área e incentivando dev's
 
